@@ -1,0 +1,85 @@
+2025-12-06 18:29:37 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:29:37 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2fb69ff6{/,null,AVAILABLE}
+2025-12-06 18:29:37 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@6650813a{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:29:37 INFO  org.eclipse.jetty.server.Server - Started Server@26d10f2e{STARTING}[11.0.17,sto=0] @4913ms
+2025-12-06 18:31:58 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:31:58 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@2fb69ff6{/,null,AVAILABLE}
+2025-12-06 18:31:58 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@6650813a{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:31:58 INFO  org.eclipse.jetty.server.Server - Started Server@26d10f2e{STARTING}[11.0.17,sto=0] @4825ms
+2025-12-06 18:37:57 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:37:57 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@cda4919{/,null,AVAILABLE}
+2025-12-06 18:37:57 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@44ea608c{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:37:57 INFO  org.eclipse.jetty.server.Server - Started Server@10ad20cb{STARTING}[11.0.17,sto=0] @5386ms
+2025-12-06 18:43:13 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:43:13 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@cda4919{/,null,AVAILABLE}
+2025-12-06 18:43:13 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@44ea608c{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:43:13 INFO  org.eclipse.jetty.server.Server - Started Server@10ad20cb{STARTING}[11.0.17,sto=0] @4804ms
+2025-12-06 18:45:27 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:45:27 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@cda4919{/,null,AVAILABLE}
+2025-12-06 18:45:27 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@44ea608c{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:45:27 INFO  org.eclipse.jetty.server.Server - Started Server@10ad20cb{STARTING}[11.0.17,sto=0] @4852ms
+2025-12-06 18:48:59 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:48:59 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1a1ed4e5{/,null,AVAILABLE}
+2025-12-06 18:48:59 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@38d5b107{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:48:59 INFO  org.eclipse.jetty.server.Server - Started Server@49298ce7{STARTING}[11.0.17,sto=0] @4720ms
+2025-12-06 18:50:01 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:50:01 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1a1ed4e5{/,null,AVAILABLE}
+2025-12-06 18:50:01 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@38d5b107{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:50:01 INFO  org.eclipse.jetty.server.Server - Started Server@49298ce7{STARTING}[11.0.17,sto=0] @4694ms
+2025-12-06 18:51:18 INFO  com.example.api.Main - This goes to info.log
+2025-12-06 18:51:18 ERROR com.example.api.Main - This goes to error.log
+2025-12-06 18:51:18 INFO  com.example.api.Main - 33333333333333333333333333
+2025-12-06 18:51:18 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:51:18 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1a1ed4e5{/,null,AVAILABLE}
+2025-12-06 18:51:18 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@50cf5a23{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:51:18 INFO  org.eclipse.jetty.server.Server - Started Server@503fbbc6{STARTING}[11.0.17,sto=0] @4699ms
+2025-12-06 18:54:14 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-06 18:54:14 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@67376ca
+2025-12-06 18:54:14 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-06 18:57:20 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-06 18:57:23 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@2bdd8394
+2025-12-06 18:57:23 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-06 18:57:24 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-06 18:57:24 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.055s)
+2025-12-06 18:57:24 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-06 18:57:24 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-06 18:57:24 INFO  com.example.api.Main - This goes to info.log
+2025-12-06 18:57:24 ERROR com.example.api.Main - This goes to error.log
+2025-12-06 18:57:24 INFO  com.example.api.Main - 33333333333333333333333333
+2025-12-06 18:57:24 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:57:24 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1a1ed4e5{/,null,AVAILABLE}
+2025-12-06 18:57:24 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@50cf5a23{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:57:24 INFO  org.eclipse.jetty.server.Server - Started Server@503fbbc6{STARTING}[11.0.17,sto=0] @4730ms
+2025-12-06 18:57:29 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-06 18:57:33 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@2bdd8394
+2025-12-06 18:57:33 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-06 18:57:33 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-06 18:57:33 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.048s)
+2025-12-06 18:57:33 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-06 18:57:33 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-06 18:57:33 INFO  com.example.api.Main - This goes to info.log
+2025-12-06 18:57:33 ERROR com.example.api.Main - This goes to error.log
+2025-12-06 18:57:33 INFO  com.example.api.Main - 33333333333333333333333333
+2025-12-06 18:57:34 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:57:34 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1a1ed4e5{/,null,AVAILABLE}
+2025-12-06 18:57:34 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@50cf5a23{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:57:34 INFO  org.eclipse.jetty.server.Server - Started Server@503fbbc6{STARTING}[11.0.17,sto=0] @4836ms
+2025-12-06 18:57:43 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-06 18:57:47 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@2bdd8394
+2025-12-06 18:57:47 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-06 18:57:47 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-06 18:57:47 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.074s)
+2025-12-06 18:57:47 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-06 18:57:47 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-06 18:57:47 INFO  com.example.api.Main - This goes to info.log
+2025-12-06 18:57:47 ERROR com.example.api.Main - This goes to error.log
+2025-12-06 18:57:47 INFO  com.example.api.Main - 33333333333333333333333333
+2025-12-06 18:57:47 INFO  org.eclipse.jetty.server.Server - jetty-11.0.17; built: 2023-10-09T18:39:14.424Z; git: 48e7716b9462bebea6732b885dbebb4300787a5c; jvm 21.0.8+12-LTS-250
+2025-12-06 18:57:48 INFO  org.eclipse.jetty.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1a1ed4e5{/,null,AVAILABLE}
+2025-12-06 18:57:48 INFO  org.eclipse.jetty.server.AbstractConnector - Started ServerConnector@50cf5a23{HTTP/1.1, (http/1.1)}{0.0.0.0:8080}
+2025-12-06 18:57:48 INFO  org.eclipse.jetty.server.Server - Started Server@503fbbc6{STARTING}[11.0.17,sto=0] @4758ms
+2025-12-06 18:57:57 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-06 18:57:57 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@6fc96ad4
+2025-12-06 18:57:57 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-06 18:57:57 INFO  com.example.api.HelloResource - hello bro
+2025-12-06 18:58:15 INFO  com.example.api.HelloResource - hello bro
