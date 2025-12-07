@@ -73,3 +73,116 @@
 2025-12-06 23:35:06 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.103s)
 2025-12-06 23:35:06 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
 2025-12-06 23:35:06 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 16:33:41 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 16:33:42 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@4528a8bf
+2025-12-07 16:33:42 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 16:33:43 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 16:33:44 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.111s)
+2025-12-07 16:33:44 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 16:33:44 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 16:34:48 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 16:34:49 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@560872a1
+2025-12-07 16:34:49 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 16:35:10 INFO  com.example.api.HelloResource - hello bro
+2025-12-07 16:42:14 INFO  com.example.api.HelloResource - hello bro
+2025-12-07 16:42:41 INFO  com.example.api.HelloResource - hello bro
+2025-12-07 16:47:39 INFO  com.example.api.HelloResource - hello bro
+2025-12-07 16:50:45 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 16:50:46 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@2cfc4475
+2025-12-07 16:50:46 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 16:50:47 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 16:50:47 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.060s)
+2025-12-07 16:50:47 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 16:50:47 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 16:55:25 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 16:55:25 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@5eefb95e
+2025-12-07 16:55:25 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 16:55:26 INFO  com.example.api.HelloResource - hello bro
+2025-12-07 17:03:30 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 17:03:31 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@4d2dc60
+2025-12-07 17:03:31 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 17:03:32 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 17:03:32 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.071s)
+2025-12-07 17:03:32 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 17:03:32 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 22:46:10 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 22:46:12 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@686279e0
+2025-12-07 22:46:12 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 22:46:13 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 22:46:13 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.084s)
+2025-12-07 22:46:13 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 22:46:13 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 22:46:25 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 22:46:25 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@6ba80277
+2025-12-07 22:46:25 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 22:46:25 INFO  com.example.api.HelloResource - hello bro
+2025-12-07 22:50:15 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 22:50:16 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@3cd3cf6b
+2025-12-07 22:50:16 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 22:50:18 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 22:50:18 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.061s)
+2025-12-07 22:50:18 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 22:50:18 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 23:09:37 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 23:09:39 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@3a69c81e
+2025-12-07 23:09:39 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 23:09:40 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 23:09:40 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.095s)
+2025-12-07 23:09:41 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 23:09:41 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 23:15:29 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 23:15:31 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@16337c8e
+2025-12-07 23:15:31 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 23:15:32 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 23:15:32 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.056s)
+2025-12-07 23:15:32 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 23:15:32 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 23:34:33 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 23:34:34 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@73502c47
+2025-12-07 23:34:34 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 23:34:36 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 23:34:36 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.063s)
+2025-12-07 23:34:36 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 23:34:36 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 23:52:30 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 23:52:32 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@43f670f3
+2025-12-07 23:52:32 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 23:52:34 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 23:52:34 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.167s)
+2025-12-07 23:52:34 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 23:52:34 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-07 23:59:34 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-07 23:59:35 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f9083b4
+2025-12-07 23:59:35 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-07 23:59:37 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-07 23:59:37 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.110s)
+2025-12-07 23:59:37 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-07 23:59:37 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-08 00:03:09 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-08 00:03:10 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@8c940e2
+2025-12-08 00:03:10 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-08 00:03:12 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-08 00:03:12 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.114s)
+2025-12-08 00:03:12 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-08 00:03:12 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-08 00:23:21 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-08 00:23:22 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@40d73518
+2025-12-08 00:23:22 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-08 00:23:24 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-08 00:23:24 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.058s)
+2025-12-08 00:23:24 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-08 00:23:24 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-08 00:45:46 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-08 00:45:47 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@16337c8e
+2025-12-08 00:45:47 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-08 00:45:49 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-08 00:45:49 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.148s)
+2025-12-08 00:45:49 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-08 00:45:49 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.
+2025-12-08 01:51:28 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Starting...
+2025-12-08 01:51:29 INFO  com.zaxxer.hikari.pool.HikariPool - ClickHousePool - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f9083b4
+2025-12-08 01:51:29 INFO  com.zaxxer.hikari.HikariDataSource - ClickHousePool - Start completed.
+2025-12-08 01:51:30 INFO  org.flywaydb.core.FlywayExecutor - Database: jdbc:mysql://localhost:3306/projectdb (MySQL 8.0)
+2025-12-08 01:51:31 INFO  org.flywaydb.core.internal.command.DbValidate - Successfully validated 5 migrations (execution time 00:00.146s)
+2025-12-08 01:51:31 INFO  org.flywaydb.core.internal.command.DbMigrate - Current version of schema `projectdb`: 4
+2025-12-08 01:51:31 INFO  org.flywaydb.core.internal.command.DbMigrate - Schema `projectdb` is up to date. No migration necessary.

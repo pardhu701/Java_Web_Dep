@@ -1,0 +1,203 @@
+08-Dec-2025 00:02:51.529 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.49
+08-Dec-2025 00:02:51.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 6 2025 01:31:11 UTC
+08-Dec-2025 00:02:51.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.49.0
+08-Dec-2025 00:02:51.537 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+08-Dec-2025 00:02:51.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Dec-2025 00:02:51.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Dec-2025 00:02:51.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\jdk-21.0.8
+08-Dec-2025 00:02:51.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.8+12-LTS-250
+08-Dec-2025 00:02:51.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Dec-2025 00:02:51.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:02:51.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:02:51.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\divya\Desktop\react.js\APITEST\tomcat\conf\logging.properties
+08-Dec-2025 00:02:51.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Dec-2025 00:02:51.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Dec-2025 00:02:51.554 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Dec-2025 00:02:51.555 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+08-Dec-2025 00:02:51.555 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Dec-2025 00:02:51.556 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+08-Dec-2025 00:02:51.556 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Dec-2025 00:02:51.556 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Dec-2025 00:02:51.556 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Dec-2025 00:02:51.557 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Dec-2025 00:02:51.557 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:02:51.557 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:02:51.557 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\divya\Desktop\react.js\APITEST\tomcat\temp
+08-Dec-2025 00:02:51.592 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.9] using APR version [1.7.6].
+08-Dec-2025 00:02:51.596 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.0 8 Apr 2025]
+08-Dec-2025 00:02:51.889 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Dec-2025 00:02:51.913 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [594] milliseconds
+08-Dec-2025 00:02:51.960 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Dec-2025 00:02:51.960 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+08-Dec-2025 00:02:52.002 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST.war]
+08-Dec-2025 00:02:52.031 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST] was found with a last modified time that did not match the associated WAR. It will be deleted.
+08-Dec-2025 00:03:07.694 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Dec-2025 00:03:15.118 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST.war] has finished in [23,115] ms
+08-Dec-2025 00:03:15.120 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\docs]
+08-Dec-2025 00:03:15.246 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\docs] has finished in [125] ms
+08-Dec-2025 00:03:15.247 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\examples]
+08-Dec-2025 00:03:18.533 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\examples] has finished in [3,285] ms
+08-Dec-2025 00:03:18.534 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\host-manager]
+08-Dec-2025 00:03:18.671 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\host-manager] has finished in [136] ms
+08-Dec-2025 00:03:18.672 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\manager]
+08-Dec-2025 00:03:18.791 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\manager] has finished in [119] ms
+08-Dec-2025 00:03:18.791 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\ROOT]
+08-Dec-2025 00:03:18.883 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\ROOT] has finished in [91] ms
+08-Dec-2025 00:03:18.897 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Dec-2025 00:03:18.934 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [27018] milliseconds
+08-Dec-2025 00:23:04.632 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.49
+08-Dec-2025 00:23:04.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 6 2025 01:31:11 UTC
+08-Dec-2025 00:23:04.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.49.0
+08-Dec-2025 00:23:04.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+08-Dec-2025 00:23:04.638 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Dec-2025 00:23:04.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Dec-2025 00:23:04.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\jdk-21.0.8
+08-Dec-2025 00:23:04.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.8+12-LTS-250
+08-Dec-2025 00:23:04.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Dec-2025 00:23:04.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:23:04.639 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:23:04.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\divya\Desktop\react.js\APITEST\tomcat\conf\logging.properties
+08-Dec-2025 00:23:04.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Dec-2025 00:23:04.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Dec-2025 00:23:04.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Dec-2025 00:23:04.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+08-Dec-2025 00:23:04.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Dec-2025 00:23:04.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+08-Dec-2025 00:23:04.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Dec-2025 00:23:04.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Dec-2025 00:23:04.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Dec-2025 00:23:04.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Dec-2025 00:23:04.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:23:04.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:23:04.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\divya\Desktop\react.js\APITEST\tomcat\temp
+08-Dec-2025 00:23:04.654 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.9] using APR version [1.7.6].
+08-Dec-2025 00:23:04.658 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.0 8 Apr 2025]
+08-Dec-2025 00:23:04.907 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Dec-2025 00:23:04.926 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [446] milliseconds
+08-Dec-2025 00:23:04.982 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Dec-2025 00:23:04.983 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+08-Dec-2025 00:23:05.029 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST.war]
+08-Dec-2025 00:23:05.046 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST] was found with a last modified time that did not match the associated WAR. It will be deleted.
+08-Dec-2025 00:23:19.752 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Dec-2025 00:23:26.549 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST.war] has finished in [21,520] ms
+08-Dec-2025 00:23:26.551 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\docs]
+08-Dec-2025 00:23:26.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\docs] has finished in [86] ms
+08-Dec-2025 00:23:26.638 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\examples]
+08-Dec-2025 00:23:27.392 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\examples] has finished in [753] ms
+08-Dec-2025 00:23:27.393 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\host-manager]
+08-Dec-2025 00:23:27.477 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\host-manager] has finished in [84] ms
+08-Dec-2025 00:23:27.479 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\manager]
+08-Dec-2025 00:23:27.557 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\manager] has finished in [79] ms
+08-Dec-2025 00:23:27.558 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\ROOT]
+08-Dec-2025 00:23:27.612 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\ROOT] has finished in [53] ms
+08-Dec-2025 00:23:27.618 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Dec-2025 00:23:27.646 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [22718] milliseconds
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.49
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 6 2025 01:31:11 UTC
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.49.0
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\jdk-21.0.8
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.8+12-LTS-250
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:45:29.293 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\divya\Desktop\react.js\APITEST\tomcat\conf\logging.properties
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\divya\Desktop\react.js\APITEST\tomcat\temp
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.9] using APR version [1.7.6].
+08-Dec-2025 00:45:29.317 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.0 8 Apr 2025]
+08-Dec-2025 00:45:29.586 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Dec-2025 00:45:29.599 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [487] milliseconds
+08-Dec-2025 00:45:29.652 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Dec-2025 00:45:29.652 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+08-Dec-2025 00:45:29.693 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST.war]
+08-Dec-2025 00:45:29.725 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST] was found with a last modified time that did not match the associated WAR. It will be deleted.
+08-Dec-2025 00:45:45.085 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Dec-2025 00:45:51.958 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST.war] has finished in [22,263] ms
+08-Dec-2025 00:45:51.958 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\docs]
+08-Dec-2025 00:45:52.038 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\docs] has finished in [80] ms
+08-Dec-2025 00:45:52.038 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\examples]
+08-Dec-2025 00:45:52.895 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\examples] has finished in [857] ms
+08-Dec-2025 00:45:52.895 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\host-manager]
+08-Dec-2025 00:45:52.971 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\host-manager] has finished in [76] ms
+08-Dec-2025 00:45:52.973 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\manager]
+08-Dec-2025 00:45:53.037 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\manager] has finished in [66] ms
+08-Dec-2025 00:45:53.037 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\ROOT]
+08-Dec-2025 00:45:53.101 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\ROOT] has finished in [64] ms
+08-Dec-2025 00:45:53.101 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Dec-2025 00:45:53.148 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [23535] milliseconds
+08-Dec-2025 01:51:13.951 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.49
+08-Dec-2025 01:51:13.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 6 2025 01:31:11 UTC
+08-Dec-2025 01:51:13.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.49.0
+08-Dec-2025 01:51:13.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+08-Dec-2025 01:51:13.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+08-Dec-2025 01:51:13.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+08-Dec-2025 01:51:13.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\jdk-21.0.8
+08-Dec-2025 01:51:13.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.8+12-LTS-250
+08-Dec-2025 01:51:13.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+08-Dec-2025 01:51:13.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 01:51:13.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 01:51:13.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\divya\Desktop\react.js\APITEST\tomcat\conf\logging.properties
+08-Dec-2025 01:51:13.980 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+08-Dec-2025 01:51:13.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+08-Dec-2025 01:51:13.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+08-Dec-2025 01:51:13.981 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.io.useCanonCaches=false
+08-Dec-2025 01:51:13.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+08-Dec-2025 01:51:13.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang.reflect=ALL-UNNAMED
+08-Dec-2025 01:51:13.982 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+08-Dec-2025 01:51:13.983 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+08-Dec-2025 01:51:13.984 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+08-Dec-2025 01:51:13.984 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+08-Dec-2025 01:51:13.984 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 01:51:13.985 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\divya\Desktop\react.js\APITEST\tomcat
+08-Dec-2025 01:51:13.985 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\divya\Desktop\react.js\APITEST\tomcat\temp
+08-Dec-2025 01:51:13.988 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.9] using APR version [1.7.6].
+08-Dec-2025 01:51:13.993 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.5.0 8 Apr 2025]
+08-Dec-2025 01:51:14.384 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+08-Dec-2025 01:51:14.417 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [715] milliseconds
+08-Dec-2025 01:51:14.477 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+08-Dec-2025 01:51:14.478 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.49]
+08-Dec-2025 01:51:14.527 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST.war]
+08-Dec-2025 01:51:14.547 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST] was found with a last modified time that did not match the associated WAR. It will be deleted.
+08-Dec-2025 01:51:26.606 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+08-Dec-2025 01:51:33.204 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\APITEST.war] has finished in [18,677] ms
+08-Dec-2025 01:51:33.206 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\docs]
+08-Dec-2025 01:51:33.285 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\docs] has finished in [78] ms
+08-Dec-2025 01:51:33.286 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\examples]
+08-Dec-2025 01:51:33.873 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\examples] has finished in [587] ms
+08-Dec-2025 01:51:33.874 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\host-manager]
+08-Dec-2025 01:51:33.958 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\host-manager] has finished in [83] ms
+08-Dec-2025 01:51:33.960 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\manager]
+08-Dec-2025 01:51:34.024 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\manager] has finished in [65] ms
+08-Dec-2025 01:51:34.024 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\ROOT]
+08-Dec-2025 01:51:34.065 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\divya\Desktop\react.js\APITEST\tomcat\webapps\ROOT] has finished in [41] ms
+08-Dec-2025 01:51:34.080 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+08-Dec-2025 01:51:34.105 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [19685] milliseconds
+08-Dec-2025 01:53:01.715 SEVERE [http-nio-8080-exec-3] org.apache.tomcat.websocket.pojo.PojoEndpointBase.onError No error handling configured for [com.example.api.ChatServer] and the following error occurred
+	java.lang.NullPointerException: Cannot invoke "String.split(String)" because "query" is null
+		at com.example.api.ChatServer.onOpen(ChatServer.java:20)
+		at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+		at org.apache.tomcat.websocket.pojo.PojoEndpointBase.doOnOpen(PojoEndpointBase.java:67)
+		at org.apache.tomcat.websocket.pojo.PojoEndpointServer.onOpen(PojoEndpointServer.java:46)
+		at org.apache.tomcat.websocket.server.WsHttpUpgradeHandler.init(WsHttpUpgradeHandler.java:131)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:945)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1774)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+		at java.base/java.lang.Thread.run(Thread.java:1583)
